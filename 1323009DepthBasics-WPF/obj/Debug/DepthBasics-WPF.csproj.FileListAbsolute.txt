@@ -1,0 +1,60 @@
+C:\Users\1323009\Documents\DepthBasics-WPF\bin\Debug\DepthBasics-WPF.exe
+C:\Users\1323009\Documents\DepthBasics-WPF\bin\Debug\DepthBasics-WPF.pdb
+C:\Users\1323009\Documents\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\1323009\Documents\DepthBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\1323009\Documents\DepthBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\1323009\Documents\DepthBasics-WPF\obj\Debug\App.g.cs
+C:\Users\1323009\Documents\DepthBasics-WPF\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Users\1323009\Documents\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.g.resources
+C:\Users\1323009\Documents\DepthBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Users\1323009\Documents\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\1323009\Documents\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.exe
+C:\Users\1323009\Documents\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.pdb
+C:\Users\1323009\Desktop\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.exe
+C:\Users\1323009\Desktop\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.pdb
+C:\Users\1323009\Desktop\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\1323009\Desktop\DepthBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\1323009\Desktop\DepthBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\1323009\Desktop\DepthBasics-WPF\obj\Debug\App.g.cs
+C:\Users\1323009\Desktop\DepthBasics-WPF\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Users\1323009\Desktop\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.g.resources
+C:\Users\1323009\Desktop\DepthBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Users\1323009\Desktop\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\1323009\Desktop\DepthBasics-WPF\bin\Debug\DepthBasics-WPF.exe
+C:\Users\1323009\Desktop\DepthBasics-WPF\bin\Debug\DepthBasics-WPF.pdb
+C:\Users\1323009\Desktop\DepthBasics-WPF_\obj\Debug\DepthBasics-WPF.exe
+C:\Users\1323009\Desktop\DepthBasics-WPF_\obj\Debug\DepthBasics-WPF.pdb
+C:\Users\1323009\Desktop\DepthBasics-WPF_\obj\Debug\DepthBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\1323009\Desktop\DepthBasics-WPF_\obj\Debug\MainWindow.baml
+C:\Users\1323009\Desktop\DepthBasics-WPF_\obj\Debug\MainWindow.g.cs
+C:\Users\1323009\Desktop\DepthBasics-WPF_\obj\Debug\App.g.cs
+C:\Users\1323009\Desktop\DepthBasics-WPF_\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Users\1323009\Desktop\DepthBasics-WPF_\obj\Debug\DepthBasics-WPF.g.resources
+C:\Users\1323009\Desktop\DepthBasics-WPF_\bin\Debug\DepthBasics-WPF.exe
+C:\Users\1323009\Desktop\DepthBasics-WPF_\bin\Debug\DepthBasics-WPF.pdb
+C:\Users\1323009\Desktop\DepthBasics-WPF_\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Users\1323009\Desktop\DepthBasics-WPF_\obj\Debug\DepthBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\1323009\Desktop\DepthBasics-WPF_ - コピー\obj\Debug\DepthBasics-WPF.exe
+C:\Users\1323009\Desktop\DepthBasics-WPF_ - コピー\obj\Debug\DepthBasics-WPF.pdb
+C:\Users\1323009\Desktop\DepthBasics-WPF_ - コピー\bin\Debug\DepthBasics-WPF.exe
+C:\Users\1323009\Desktop\DepthBasics-WPF_ - コピー\bin\Debug\DepthBasics-WPF.pdb
+C:\Users\1323009\Desktop\DepthBasics-WPF_ - コピー\obj\Debug\DepthBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\1323009\Desktop\DepthBasics-WPF_ - コピー\obj\Debug\MainWindow.baml
+C:\Users\1323009\Desktop\DepthBasics-WPF_ - コピー\obj\Debug\MainWindow.g.cs
+C:\Users\1323009\Desktop\DepthBasics-WPF_ - コピー\obj\Debug\App.g.cs
+C:\Users\1323009\Desktop\DepthBasics-WPF_ - コピー\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Users\1323009\Desktop\DepthBasics-WPF_ - コピー\obj\Debug\DepthBasics-WPF.g.resources
+C:\Users\1323009\Desktop\DepthBasics-WPF_ - コピー\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Users\1323009\Desktop\DepthBasics-WPF_ - コピー\obj\Debug\DepthBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\1323009\Desktop\1323009DepthBasics-WPF_\obj\Debug\DepthBasics-WPF.exe
+C:\Users\1323009\Desktop\1323009DepthBasics-WPF_\obj\Debug\DepthBasics-WPF.pdb
+C:\Users\1323009\Desktop\1323009DepthBasics-WPF_\bin\Debug\DepthBasics-WPF.exe
+C:\Users\1323009\Desktop\1323009DepthBasics-WPF_\bin\Debug\DepthBasics-WPF.pdb
+C:\Users\1323009\Desktop\1323009DepthBasics-WPF_\obj\Debug\DepthBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\1323009\Desktop\1323009DepthBasics-WPF_\obj\Debug\MainWindow.baml
+C:\Users\1323009\Desktop\1323009DepthBasics-WPF_\obj\Debug\MainWindow.g.cs
+C:\Users\1323009\Desktop\1323009DepthBasics-WPF_\obj\Debug\App.g.cs
+C:\Users\1323009\Desktop\1323009DepthBasics-WPF_\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Users\1323009\Desktop\1323009DepthBasics-WPF_\obj\Debug\DepthBasics-WPF.g.resources
+C:\Users\1323009\Desktop\1323009DepthBasics-WPF_\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Users\1323009\Desktop\1323009DepthBasics-WPF_\obj\Debug\DepthBasics-WPF.csproj.GenerateResource.Cache
